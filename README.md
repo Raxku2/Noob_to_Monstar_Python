@@ -1,5 +1,5 @@
 
-# 🐍 Python Course: Noob to Monster 🚀
+# 🐍 Python Course: Noob 🤡 to Monster 👹
 
 Welcome to **Noob to Monster**, a complete **Python programming journey** from installing Python for the first time all the way to building **advanced CLI apps, web APIs, databases, and AI-powered tools**.  
 
@@ -47,11 +47,29 @@ This repository contains **tutorials, practice sets, and 50+ projects** designed
 Each **chapter** contains explanations, code examples, and a **practice set**.  
 Projects are stored in separate folders.  
 
-### 📝 Chapters
-- [Chapter_01: Installing Python](./Chapter_01)  
-- [Chapter_02: Functions & Async](./Chapter_02)  
+### 📝 Chapters# 📖 Python Learning Course – Index
+- [Chapter_01: Installing Python & Setting up IDE](./Chapter_01)  
+- [Chapter_02: Variables & Data Types](./Chapter_02)  
+- [Chapter_03: Input & Output in Python](./Chapter_03)  
+- [Chapter_04: Operators in Python](./Chapter_04)  
+- [Chapter_05: Strings & String Methods](./Chapter_05)  
+- [Chapter_06: Lists & List Methods](./Chapter_06)  
+- [Chapter_07: Tuples & Sets](./Chapter_07)  
+- [Chapter_08: Dictionaries](./Chapter_08)  
+- [Chapter_09: Control Flow (if-else, loops)](./Chapter_09)  
+- [Chapter_10: Functions & Scope](./Chapter_10)  
+- [Chapter_11: Advanced Functions (Lambda, Map, Filter, Reduce)](./Chapter_11)  
+- [Chapter_12: Async & Await in Python](./Chapter_12)  
+- [Chapter_13: File Handling (Read, Write, Append)](./Chapter_13)  
+- [Chapter_14: Exception Handling (try, except, finally)](./Chapter_14)  
+- [Chapter_15: Modules & Packages](./Chapter_15)  
+- [Chapter_16: Object-Oriented Programming (OOP Basics)](./Chapter_16)  
+- [Chapter_17: OOP Advanced (Inheritance, Polymorphism, Encapsulation)](./Chapter_17)  
+- [Chapter_18: Virtual Environment (venv)](./Chapter_18)  
+
 <!-- Add more chapters here as you go -->
 
+<!---
 ### 💻 Projects
 - [Project_01: CLI To-Do App](./Project_01)  
 - [Project_02: Registration System](./Project_02)  
@@ -84,11 +102,12 @@ Some examples you'll build along the way:
 ---
 
 ## 🚀 How to Use This Repo
-1. Clone the repo:  
-   ```bash
+1. Clone the repo:
+   
+    ```bash
    git clone https://github.com/your-username/noob-to-monster.git
    cd noob-to-monster
-````
+    ````
 
 2. Set up a virtual environment:
 
