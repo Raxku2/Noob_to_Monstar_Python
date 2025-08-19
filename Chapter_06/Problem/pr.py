@@ -1,0 +1,10 @@
+nums=[10,20,30,40,50]
+nums.append(60)
+nums.insert(2,15)
+nums.remove(40)
+nums.pop()
+nums.sort()
+nums.reverse()
+print(nums.index(20))
+print(nums.count(20))
+a=[1,2]; b=[3,4]; print(a+b)
