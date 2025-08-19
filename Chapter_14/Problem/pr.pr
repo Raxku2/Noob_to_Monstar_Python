@@ -1,0 +1,30 @@
+try: print(10/0)
+except ZeroDivisionError: print("Divide by zero")
+
+try: x=int("abc")
+except ValueError: print("Invalid")
+
+try: a=1/0
+except ZeroDivisionError: print("Zero")
+except: print("Other")
+
+try: print(5/1)
+except: pass
+finally: print("Always runs")
+
+raise Exception("Custom error")
+
+try: open("nofile.txt")
+except FileNotFoundError: print("Not found")
+
+try: print(10/2)
+except: pass
+else: print("No error")
+
+try:
+    try: print(10/0)
+    except ZeroDivisionError: print("inner")
+except: print("outer")
+
+try: 1/0
+except Exception as e: print("Error:",e)
