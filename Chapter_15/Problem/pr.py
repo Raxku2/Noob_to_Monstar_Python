@@ -1,0 +1,11 @@
+import math; print(math.sqrt(25))
+print(math.pi)
+from math import factorial; print(factorial(4))
+import random; print(random.randint(1,10))
+import datetime; print(datetime.date.today())
+# create file mymod.py with function greet()
+import mymod; mymod.greet()
+import math as m; print(m.cos(0))
+from math import sin; print(sin(0))
+help("modules")
+# package = collection of modules
