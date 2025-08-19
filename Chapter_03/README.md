@@ -6,3 +6,10 @@
 print("Hello")
 print("Age:", 20)
 ```
+## Input
+Use input() (always returns string).
+
+```python
+name = input("Enter name: ")
+age = int(input("Enter age: "))
+```
