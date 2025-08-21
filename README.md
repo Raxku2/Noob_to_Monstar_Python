@@ -70,10 +70,11 @@ Projects are stored in separate folders.
 
 <!-- Add more chapters here as you go -->
 
-<!---
+
 ### 💻 Projects
-- [Project_01: CLI To-Do App](./Project_01)  
-- [Project_02: Registration System](./Project_02)  
+- [Project_01: Calculator CLI](./Project_01)  
+- [Project_02: Temperature Converter](./Project_02)  
+- [Project_02: To-Do List Manager (Basic CLI)](./Project_03)  
 <!-- Add more projects here as you go -->
 
 ---
