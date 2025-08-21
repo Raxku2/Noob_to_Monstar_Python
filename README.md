@@ -86,8 +86,7 @@ Some examples you'll build along the way:
 - ✅ Inventory Management App  
 - ✅ CLI Chat Application  
 - ✅ Weather App with API requests  
-- ✅ FastAPI Blog API (with deployment)  
-- ✅ AI-powered Code Helper (prompt-based)  
+- ✅ FastAPI Blog API (with deployment)
 
 …and **dozens more** to make you a true Python monster.
 
