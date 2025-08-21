@@ -93,12 +93,16 @@ Some examples you'll build along the way:
 ---
 
 ## 🛠️ Tech Stack
-- **Python 3+**  
-- **MongoDB** + `pymongo`  
-- **FastAPI**  
-- **Git & GitHub**  
-- **CLI Tools**  
-- **AI & Prompt Engineering**  
+* **Python 3+** (core language)
+* **MongoDB** + `pymongo` (database)
+* **FastAPI** (web framework)
+* **Git & GitHub** (version control & collaboration)
+* **CLI Tools** (`argparse`, `click`, `rich`)
+* **pandas** (data handling & analysis)
+* **requests** (HTTP requests & APIs)
+* **BeautifulSoup** (web scraping)
+* **Vibe Coding** (structured problem-solving approach)
+
 
 ---
 
