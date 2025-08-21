@@ -6,7 +6,22 @@ Welcome to **Noob to Monster**, a complete **Python programming journey** from i
 This repository contains **tutorials, practice sets, and 50+ projects** designed to take you from a beginner to a confident developer.
 
 ---
-
+![Python](https://img.shields.io/badge/Python-3%2B-blue?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Data%20Format-000000?logo=json&logoColor=white)
+![requests](https://img.shields.io/badge/requests-HTTP%20Library-FF9A00?logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-4E9A06?logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white)
+![pymongo](https://img.shields.io/badge/pymongo-Python%20Driver-13AA52?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Web%20Framework-009688?logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI%20Server-FF6600?logo=python&logoColor=white)
+![argparse](https://img.shields.io/badge/argparse-CLI%20Parser-3776AB?logo=python&logoColor=white)
+![click](https://img.shields.io/badge/click-CLI%20Tools-525252?logo=python&logoColor=white)
+![rich](https://img.shields.io/badge/rich-CLI%20Output-CC0000?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?logo=github&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-Problem%20Solving-8E44AD?logo=python&logoColor=white)
+___
 ## 📚 What You'll Learn
 
 ### 🏁 Getting Started
