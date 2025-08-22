@@ -89,7 +89,9 @@ Projects are stored in separate folders.
 ### 💻 Projects
 - [Project_01: Calculator CLI](./Project_01)  
 - [Project_02: Temperature Converter](./Project_02)  
-- [Project_02: To-Do List Manager (Basic CLI)](./Project_03)  
+- [Project_03: To-Do List Manager (Basic CLI)](./Project_03)  
+- [Project_04: Guess the Number Game](./Project_04)  
+- [Project_05: Rock-Paper-Scissors Game](./Project_05)  
 <!-- Add more projects here as you go -->
 
 ---
