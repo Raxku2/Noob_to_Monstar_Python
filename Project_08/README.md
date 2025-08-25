@@ -26,7 +26,7 @@ A simple **Contact Book CLI** application in Python that stores, retrieves, adds
 ```
 
 .
-├── contact\_book.py   # Main Python script
+├── main.py   # Main Python script
 ├── data.csv          # Contact database (auto-created if missing)
 └── README.md         # Project documentation
 
