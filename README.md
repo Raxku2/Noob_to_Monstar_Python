@@ -93,6 +93,7 @@ Projects are stored in separate folders.
 - [Project_04: Guess the Number Game](./Project_04)  
 - [Project_05: Rock-Paper-Scissors Game](./Project_05)  
 - [Project_08: Contact Book CLI](./Project_08)  
+- [Project_09: Simple Alarm Clock](./Project_09)  
 - [Project_10: Password Generator](./Project_10)
 <!-- Add more projects here as you go -->
 
