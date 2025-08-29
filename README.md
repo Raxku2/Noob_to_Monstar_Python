@@ -92,6 +92,8 @@ Projects are stored in separate folders.
 - [Project_03: To-Do List Manager (Basic CLI)](./Project_03)  
 - [Project_04: Guess the Number Game](./Project_04)  
 - [Project_05: Rock-Paper-Scissors Game](./Project_05)  
+- [Project_06: Unit Converter](./Project_06)  
+- [Project_07: Dice Roller App](./Project_07)  
 - [Project_08: Contact Book CLI](./Project_08)  
 - [Project_09: Simple Alarm Clock](./Project_09)  
 - [Project_10: Password Generator](./Project_10)
