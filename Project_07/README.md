@@ -23,5 +23,5 @@ It can roll one or multiple dice, generating random values like a real dice.
 ## 🚀 Usage
 Run the script:
 ```bash
-python dice_roller.py
+python main.py
 ```
