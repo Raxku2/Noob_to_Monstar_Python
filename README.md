@@ -81,7 +81,8 @@ Projects are stored in separate folders.
 - [Chapter_16: Object-Oriented Programming (OOP Basics)](./Chapter_16)  
 - [Chapter_17: OOP Advanced (Inheritance, Polymorphism, Encapsulation)](./Chapter_17)  
 - [Chapter_18: Virtual Environment (venv)](./Chapter_18)  
-- [Chapter_19: Pandas](./Chapter_19)  
+- [Chapter_19: Pandas](./Chapter_19)    
+- [Chapter_20: HTTP Requests with requests](./Chapter_20)  
 
 <!-- Add more chapters here as you go -->
 
