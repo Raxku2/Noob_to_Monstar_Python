@@ -98,6 +98,7 @@ Projects are stored in separate folders.
 - [Project_08: Contact Book CLI](./Project_08)  
 - [Project_09: Simple Alarm Clock](./Project_09)  
 - [Project_10: Password Generator](./Project_10)
+- [Project_11: Weather App (API)](./Project_11)
 <!-- Add more projects here as you go -->
 
 ---
