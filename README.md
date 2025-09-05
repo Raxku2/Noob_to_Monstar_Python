@@ -83,6 +83,8 @@ Projects are stored in separate folders.
 - [Chapter_18: Virtual Environment (venv)](./Chapter_18)  
 - [Chapter_19: Pandas](./Chapter_19)    
 - [Chapter_20: HTTP Requests with requests](./Chapter_20)  
+- [Chapter_21: Web Scraping with BeautifulSoup & API Discovery](./Chapter_21)
+- [Chapter_22: Working with Public APIs](./Chapter_22)  
 
 <!-- Add more chapters here as you go -->
 
@@ -99,6 +101,7 @@ Projects are stored in separate folders.
 - [Project_09: Simple Alarm Clock](./Project_09)  
 - [Project_10: Password Generator](./Project_10)
 - [Project_11: Weather App (API)](./Project_11)
+- [Project_12: Currency Converter (API)](./Project_12)
 <!-- Add more projects here as you go -->
 
 ---
