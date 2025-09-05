@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div style="padding: 10px; border-radius: 10px;">
+        <div style="background-color: #e5ffa9; padding: 10px; border-radius: 10px;">
+
+            <div
+                style="display: flex; align-items: baseline; width: 100%; background-color: #3498db; border-radius: 4px 100px 100px 4px; padding: 4px;">
+                <h1>
+                    MAKAUT Notice Notification
+                </h1>
+                <p style="padding: 4px; font-size: 10px; color: white; font-weight: bolder;">
+                    Powerd by YantraYodha ECE
+                </p>
+            </div>
+            <div style="margin-top: 4px; margin-bottom:26px; ">
+                <div>
+                    <h3>
+                        Latest Announcement From MAKAUT
+                    </h3>
+                </div>
+                <hr style="background-color:#348a3a; height: 8px; width: 90%; border-radius: 0px 100px 100px 0px;">
+                <div id="noticePanel" style="padding: 20px; background-color: #ffffff00;">
+                    <div style="width: 100%;" id="notice_showw">
+
+                    </div>
+                </div>
+            </div>
+            <div
+                style="margin: 0; border-radius: 10px; padding: 15px; padding-bottom: 10px; background-color: #8caa41; ">
+
+
+                <div style="color: white; width: 100%; ">
+                    <h2 style="padding: 2px;">
+                        Author Credit / Copyright Notice
+                    </h2>
+                    <hr style="width: 90%; color: aliceblue; background-color: aliceblue;">
+                    <div style="padding-left: 10px;">
+                        <p>
+                            This Notification sending system was developed as a practice project under the guidance of
+                            the
+                            instructor in the YantraYodha Club(ECE), Code Shiksha: Python Bhasha Mastery course.
+                        </p>
+                        <div
+                            style="display: flex; align-items: center; margin-top: 4px; justify-content: space-between; padding-right: 10px; ">
+                            <div style="display: flex; align-items: center;">
+
+                                <p style="font-size: 20px;">
+                                    Project Implementation & Development: <strong> Pinaka</strong>
+                                </p>
+                                <img id="Pinaka-DP" alt="Rakesh" style="width: 40px; padding: 6px; border-radius: 100%;"
+                                    src="https://github.com/rax-2.png">
+                            </div>
+                            <a href="https://github.com/rax-2"
+                                style="color: #002ec7; font-weight: bolder; font-size: 20px;">
+                                [GitHub]
+                            </a>
+
+                        </div>
+                        <hr style="width: 90%; color:aliceblue; height: 1px; background-color: aliceblue;">
+                        <div>
+                            <div style="display: flex; justify-content: space-between; padding-right: 10px;">
+
+                                <p style="display: flex;">
+                                    &copy; <strong id="date" style="padding: 0px 4px;"> </strong>
+                                    <strong>Pinaka</strong>.
+                                    All rights reserved.
+                                </p>
+                                <p>
+                                    Powerd by <strong>YantraYodha</strong>
+                                </p>
+                                <a href="https://yyaiem.github.io/yy/" style="color: #002ec7; font-weight: bold;">
+                                    [YantraYodha webpage]</a>
+                            </div>
+                            <p style="color: rgb(235, 43, 0); margin: 10px; font-weight: bold;">
+                                This project is created solely for educational and practice purposes.
+                                Unauthorized reproduction, distribution, or commercial use of this code or system
+                                without prior permission is prohibited
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    document.getElementById('date').innerText = '2025'
+
+    let noticeData = [
+        ['25-08-2025', 'Notice for distribution of Semester Grade Card of Even Semester 2024-25', 'https://d2xe8shibzpjog.cloudfront.net/Notice/makaut1/5361_1756133417.pdf'],
+
+        ['07-08-2025', 'Notice on Form fill-up of Supplementary Examination 2024-25', 'https://d2xe8shibzpjog.cloudfront.net/Notice/makaut1/9291_1754568890.pdf'],
+
+        ['31-07-2025', 'Publication of results of Post Publication Review (PPR) of Even Semester 2024-25', 'https://d2xe8shibzpjog.cloudfront.net/Notice/makaut1/5285_1753964626.pdf'],
+
+        ['15-07-2025', 'Marksheet Distribution of PPR Odd Semester 2024-25', 'https://d2xe8shibzpjog.cloudfront.net/Notice/makaut1/8690_1752582083.pdf'],
+
+        ['15-07-2025', 'Notice for application of Post Publication Review (PPR) of Even Semester 2024-25 Last Date : 21/07/2025', 'https://d2xe8shibzpjog.cloudfront.net/Notice/makaut1/9087_1752568554.pdf'],
+
+        ['08-07-2025', 'Academic Calendar 2025-26', 'https://d2xe8shibzpjog.cloudfront.net/Notice/makaut1/3610_1751975260.pdf'],
+
+        ['04-07-2025', 'Publication of Results of the Even Semester Examinations 2024-25', 'https://d2xe8shibzpjog.cloudfront.net/Notice/makaut1/6911_1751625551.pdf'],
+
+        ['11-06-2025', 'Degree Certificate issued through NAD for the Year 2023 and 2024', 'https://d2xe8shibzpjog.cloudfront.net/Notice/makaut1/7890_1749642079.pdf'],
+
+        ['09-06-2025', 'Notice for  uploading MOOCS score and MAR activity report on portal -Last Date 25/06/2025', 'https://d2xe8shibzpjog.cloudfront.net/Notice/makaut1/5369_1750325298.pdf'],
+
+        ['07-05-2025', 'Notification on Form fill-up for Regular & Backlog Students for Even Semester Examinations 2024-25', 'https://d2xe8shibzpjog.cloudfront.net/Notice/makaut1/5363_1746621184.pdf'],
+
+        ['06-05-2025', 'Distribution of Odd Sem Grade Card 2024-25', 'https://d2xe8shibzpjog.cloudfront.net/Notice/makaut1/8697_1746532650.pdf'],
+
+        ['22-04-2025', 'Publication of results of Post Publication Review (PPR) of Odd Semester 2024-25', 'https://d2xe8shibzpjog.cloudfront.net/Notice/makaut1/7980_1745325178.pdf']
+    ]
+    textData = ''
+    for (let index = 0; index < noticeData.length; index++) {
+
+        let date = noticeData[index][0]
+        let title = noticeData[index][1]
+        let url = noticeData[index][2]
+
+        textHtml = `<div style="width: 100%; padding: 4px; margin: 8px; background-color: #a9e7a1; border-radius: 100px 0px 0px 100px; display:flex; align-items: center; justify-content: space-between;">
+                        <div style="display: flex; flex-wrap: wrap; width: 80%; margin-left: 16px; font-weight: bold;">
+                            <a href="${url}" target="_blank" style="display: flex;">
+                               ${title} 
+                            </a>
+                        </div>
+                        <div style="width: 20%; display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+                            <p>
+                                Published on:
+                            </p>
+                            <p>
+                                ${date}
+                            </p>
+                        </div>
+                    </div>`
+
+        textData += textHtml
+
+
+    }
+
+    document.getElementById('notice_showw').innerHTML = textData
+
+</script>
+
+</html>
