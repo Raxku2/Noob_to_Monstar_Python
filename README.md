@@ -129,7 +129,164 @@ Some examples you'll build along the way:
 * **requests** (HTTP requests & APIs)
 * **BeautifulSoup** (web scraping)
 * **Vibe Coding** (structured problem-solving approach)
+---
 
+## 🗺️ Course Curriculum (Step-by-Step Roadmap)
+
+1. **Chapter\_01: Installing Python & Setting up IDE**
+2. **Chapter\_02: Understanding Variables & Data Types**
+3. **Chapter\_03: Input & Output in Python**
+4. **Chapter\_04: Operators in Python**
+5. **Chapter\_05: Strings & String Methods**
+6. **Chapter\_06: Lists & List Methods**
+7. **Chapter\_07: Tuples & Sets**
+8. **Chapter\_08: Dictionaries**
+9. **Chapter\_09: Control Flow (if-else, loops)**
+10. **Chapter\_10: Functions & Scope**
+11. **Chapter\_11: Advanced Functions (Lambda, Map, Filter, Reduce)**
+12. **Chapter\_12: Async & Await in Python**
+13. **Chapter\_13: File Handling (Read, Write, Append)**
+14. **Chapter\_14: Exception Handling (try, except, finally)**
+15. **Chapter\_15: Modules & Packages**
+16. **Chapter\_16: Object-Oriented Programming (OOP Basics)**
+17. **Chapter\_17: OOP Advanced (Inheritance, Polymorphism, Encapsulation)**
+
+### 🔰 Basic Projects (\~20 total spread here)
+
+* Project\_01: Calculator CLI
+* Project\_02: Temperature Converter
+* Project\_03: To-Do List Manager (basic CLI)
+* Project\_04: Guess the Number Game
+* Project\_05: Rock-Paper-Scissors Game
+* Project\_06: Unit Converter
+* Project\_07: Dice Roller App
+* Project\_08: Contact Book CLI
+* Project\_09: Simple Alarm Clock
+* Project\_10: Password Generator
+
+---
+
+### 📊 Data Handling, Environments & APIs
+
+18. **Chapter\_18: Virtual Environments (venv) & JSON Handling in Python**
+19. **Chapter\_19: Pandas Basics**
+20. **Chapter\_20: HTTP Requests with `requests`**
+21. **Chapter\_21: Web Scraping with BeautifulSoup**
+22. **Chapter\_22: Working with Public APIs**
+
+### Projects
+
+* Project\_11: Weather App (API)
+* Project\_12: Currency Converter (API)
+* Project\_13: GitHub Repo Stats Viewer (API)
+* Project\_14: News Headlines Scraper (BeautifulSoup)
+* Project\_15: Job Listings Scraper (BeautifulSoup + CSV)
+* Project\_16: Amazon Product Price Tracker (requests + BeautifulSoup)
+
+---
+
+### 💾 Databases (MongoDB)
+
+23. **Chapter\_23: MongoDB Atlas Setup**
+24. **Chapter\_24: Connecting Python to MongoDB (PyMongo)**
+25. **Chapter\_25: CRUD Operations with PyMongo**
+26. **Chapter\_26: Indexing, Aggregations, and Queries**
+
+### Projects
+
+* Project\_17: Registration Form CLI (MongoDB backend)
+* Project\_18: Inventory Management System
+* Project\_19: Student Database CLI
+* Project\_20: Notes App with MongoDB
+
+---
+
+### 🌐 Git & GitHub
+
+27. **Chapter\_27: Git & GitHub Basics (clone, push, pull)**
+28. **Chapter\_28: Branching, Merging & PRs**
+
+### Project
+
+* Project\_21: Open-source style contribution mini project
+
+---
+
+### ⚡ FastAPI (Web Development)
+
+29. **Chapter\_29: FastAPI Setup & Hello World**
+30. **Chapter\_30: FastAPI Basics (Routes, Path, Query Params)**
+31. **Chapter\_31: CRUD with FastAPI**
+32. **Chapter\_32: Authentication in FastAPI (JWT, OAuth)**
+33. **Chapter\_33: MongoDB + FastAPI Integration**
+34. **Chapter\_34: Deploying FastAPI App (Railway/Render/Heroku)**
+
+### Projects
+
+* Project\_22: Blog API with FastAPI
+* Project\_23: User Authentication API
+* Project\_24: Task Manager API
+* Project\_25: URL Shortener API
+* Project\_26: Notes App with FastAPI + MongoDB
+
+---
+
+### 💻 CLI Advanced Projects (\~50 total across)
+
+35. **Chapter\_35: Advanced CLI with argparse & click**
+36. **Chapter\_36: CLI UI Styling (rich library)**
+
+### Advanced CLI Projects
+
+* Project\_27: CLI Chat App (Socket Programming)
+* Project\_28: File Sharing App (CLI)
+* Project\_29: Markdown Note-Taker
+* Project\_30: Budget Tracker CLI
+* Project\_31: Expense Manager with DB
+* Project\_32: Quiz App CLI
+* Project\_33: Music Player CLI
+* Project\_34: News Aggregator CLI
+* Project\_35: Portfolio Tracker CLI
+* Project\_36: PDF Merger CLI
+* Project\_37: Image Resizer CLI
+* Project\_38: YouTube Downloader CLI
+* Project\_39: Log Analyzer CLI
+* Project\_40: GitHub Repo Manager CLI
+* Project\_41: CLI Email Sender
+
+---
+
+### 🧠 Vibe Coding (Problem-Solving Mindset)
+
+37. **Chapter\_37: Introduction to Vibe Coding (Thinking in Prompts)**
+38. **Chapter\_38: Breaking Problems into Steps**
+39. **Chapter\_39: Writing Pseudocode & Translating to Python**
+40. **Chapter\_40: Practicing Vibe Coding with Small Challenges**
+
+### Vibe Coding Projects
+
+* Project\_42: Pattern Printing Challenges
+* Project\_43: String Manipulation Challenges
+* Project\_44: Data Analysis Mini Tasks (CSV parsing, filtering)
+* Project\_45: Build Your Own CLI Challenge
+* Project\_46: Create a Problem-Solving Prompt Sheet
+
+---
+
+### 🏆 Capstone & Advanced Projects
+
+41. **Chapter\_41: Full-Stack CLI + FastAPI Project**
+42. **Chapter\_42: Final Integration Project**
+
+### Capstone Projects
+
+* Project\_47: E-commerce Inventory API (FastAPI + MongoDB)
+* Project\_48: CLI Chat App with DB Backend
+* Project\_49: Blogging Platform (FastAPI + MongoDB + Deployment)
+* Project\_50: Task & Notes Manager (CLI + DB + API)
+* Project\_51: Portfolio & Resume Manager CLI
+* Project\_52: Finance Tracker App
+* Project\_53: Final Student-Defined Project (open challenge)
 
 ---
 
