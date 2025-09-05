@@ -102,6 +102,7 @@ Projects are stored in separate folders.
 - [Project_10: Password Generator](./Project_10)
 - [Project_11: Weather App (API)](./Project_11)
 - [Project_12: Currency Converter (API)](./Project_12)
+- [Project_13: GitHub Repo Stats Viewer (API)](./Project_13)
 <!-- Add more projects here as you go -->
 
 ---
