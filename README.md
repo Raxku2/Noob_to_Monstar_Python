@@ -1,4 +1,3 @@
-
 # 🐍 Python Course: Noob 🤡 to Monster 👹
 
 Welcome to **Noob to Monster**, a complete **Python programming journey** from installing Python for the first time all the way to building **advanced CLI apps, web APIs, databases, and AI-powered tools**.  
@@ -101,8 +100,9 @@ Projects are stored in separate folders.
 - [Project_09: Simple Alarm Clock](./Project_09)  
 - [Project_10: Password Generator](./Project_10)
 - [Project_11: Weather App (API)](./Project_11)
-- [Project_12: Currency Converter (API)](./Project_12)
+- [Project_12: Currency Converter (API)](./Project_12) 
 - [Project_13: GitHub Repo Stats Viewer (API)](./Project_13)
+- [Project_14: News Headlines Scraper (BeautifulSoup)](./Project_14)
 <!-- Add more projects here as you go -->
 
 ---
