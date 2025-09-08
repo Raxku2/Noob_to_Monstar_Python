@@ -103,6 +103,7 @@ Projects are stored in separate folders.
 - [Project_12: Currency Converter (API)](./Project_12) 
 - [Project_13: GitHub Repo Stats Viewer (API)](./Project_13)
 - [Project_14: News Headlines Scraper (BeautifulSoup)](./Project_14)
+- [Project_15: Job Listings Scraper](./Project_15)
 <!-- Add more projects here as you go -->
 
 ---
