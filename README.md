@@ -104,6 +104,7 @@ Projects are stored in separate folders.
 - [Project_13: GitHub Repo Stats Viewer (API)](./Project_13)
 - [Project_14: News Headlines Scraper (BeautifulSoup)](./Project_14)
 - [Project_15: Job Listings Scraper](./Project_15)
+- [Project_16: Amazon Product Price Tracker](./Project_16)
 <!-- Add more projects here as you go -->
 
 ---
