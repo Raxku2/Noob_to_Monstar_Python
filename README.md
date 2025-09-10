@@ -84,6 +84,7 @@ Projects are stored in separate folders.
 - [Chapter_20: HTTP Requests with requests](./Chapter_20)  
 - [Chapter_21: Web Scraping with BeautifulSoup & API Discovery](./Chapter_21)
 - [Chapter_22: Working with Public APIs](./Chapter_22)  
+- [Chapter_23: MongoDB Atlas Setup](./Chapter_23)  
 
 <!-- Add more chapters here as you go -->
 
