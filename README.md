@@ -1,4 +1,4 @@
-# 🐍 Python Course: Noob 🤡 to Monster 👹
+# 🐍 Python Course: Noob 🤡 to Monster 👹 
 
 Welcome to **Noob to Monster**, a complete **Python programming journey** from installing Python for the first time all the way to building **advanced CLI apps, web APIs, databases, and AI-powered tools**.  
 
