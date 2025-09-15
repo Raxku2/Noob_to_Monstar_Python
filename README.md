@@ -87,6 +87,7 @@ Projects are stored in separate folders.
 - [Chapter_23: MongoDB Atlas Setup](./Chapter_23)  
 - [Chapter_24: Connecting Python to MongoDB (PyMongo)](./Chapter_24)  
 - [Chapter_25: CRUD Operations with PyMongo](./Chapter_25)  
+- [Chapter_26: Indexing, Aggregations, and Queries in MongoDB](./Chapter_26) 
 
 <!-- Add more chapters here as you go -->
 
@@ -108,6 +109,7 @@ Projects are stored in separate folders.
 - [Project_14: News Headlines Scraper (BeautifulSoup)](./Project_14)
 - [Project_15: Job Listings Scraper](./Project_15)
 - [Project_16: Amazon Product Price Tracker](./Project_16)
+- [Project_17: Registration Form CLI (MongoDB backend)](./Project_17)
 <!-- Add more projects here as you go -->
 
 ---
