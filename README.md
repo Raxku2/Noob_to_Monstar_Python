@@ -88,6 +88,8 @@ Projects are stored in separate folders.
 - [Chapter_24: Connecting Python to MongoDB (PyMongo)](./Chapter_24)  
 - [Chapter_25: CRUD Operations with PyMongo](./Chapter_25)  
 - [Chapter_26: Indexing, Aggregations, and Queries in MongoDB](./Chapter_26) 
+- [Chapter_27: Git & GitHub Basics](./Chapter_27)  
+- [Chapter_28: Branching, Merging & Pull Requests](./Chapter_28) 
 - [Chapter_29: FastAPI Setup & Hello World](./Chapter_29) 
 
 <!-- Add more chapters here as you go -->
