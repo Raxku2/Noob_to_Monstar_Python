@@ -116,6 +116,9 @@ Projects are stored in separate folders.
 - [Project_15: Job Listings Scraper](./Project_15)
 - [Project_16: Amazon Product Price Tracker](./Project_16)
 - [Project_17: Registration Form CLI (MongoDB backend)](./Project_17)
+- [Project_18: Inventory Management System (CLI + MongoDB)](./Project_18)
+- [Project_19: Student Database CLI (MongoDB + Rich)](./Project_19)
+- [Project_20: Notes App CLI (Python + MongoDB)](./Project_20)
 <!-- Add more projects here as you go -->
 
 ---
