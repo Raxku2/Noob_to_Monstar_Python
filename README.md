@@ -91,6 +91,8 @@ Projects are stored in separate folders.
 - [Chapter_27: Git & GitHub Basics](./Chapter_27)  
 - [Chapter_28: Branching, Merging & Pull Requests](./Chapter_28) 
 - [Chapter_29: FastAPI Setup & Hello World](./Chapter_29) 
+- [Chapter_30: FastAPI Basics (Routes, Path Params, Query Params)](./Chapter_30) 
+- [Chapter_31: CRUD with FastAPI & MongoDB](./Chapter_31) 
 
 <!-- Add more chapters here as you go -->
 
