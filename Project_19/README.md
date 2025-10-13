@@ -1,27 +1,29 @@
-### 📝 Project 18 – Student/Inventory Management System CLI (MongoDB + Rich)
+### 📝 Project 19 – Student Database CLI (MongoDB + Rich)
 
-A **Command-Line Management System** for **students or inventory**, powered by **MongoDB** and enhanced with **Rich** for a clean, colorful interface.
-Users can **add, view, update, delete, and list entries** with an intuitive menu-driven CLI.
+A **Command-Line Student Management System** with **MongoDB backend** and a **colorful interface using Rich**.
+Supports **CRUD operations**: add, view, update, delete, and list students with a clean menu-driven interface.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb)
-![Rich](https://img.shields.io/badge/Library-Rich-orange)
-![CLI](https://img.shields.io/badge/Interface-Command%20Line-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python">  
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb" alt="MongoDB">  
+  <img src="https://img.shields.io/badge/Library-Rich-orange" alt="Rich">  
+  <img src="https://img.shields.io/badge/Interface-Command%20Line-lightgrey" alt="CLI">  
+</p>
 
 ---
 
 ## ✨ Features
 
-* ➕ **Add entries** with full details (name, roll, course, year, email).
-* 📜 **List all entries** in a formatted table.
-* 🔍 **View specific entry** by roll number.
-* ✏️ **Update existing entries** easily.
-* 🗑️ **Delete entries** with confirmation.
-* 🎨 **Colorful CLI** using Rich panels, tables, and prompts.
+* ➕ **Add students** with name, roll number, course, year, and email.
+* 📜 **List all students** in a formatted Rich table.
+* 🔍 **View details** of a student by roll number.
+* ✏️ **Update student details** easily.
+* 🗑️ **Delete students** with confirmation prompt.
+* 🎨 **Beautiful, colorful CLI** using Rich panels, tables, and prompts.
 * 🌐 **MongoDB backend** ensures persistent storage.
 
 ---
@@ -32,7 +34,7 @@ Users can **add, view, update, delete, and list entries** with an intuitive menu
 
 ```bash
 git clone <your-repo-url>
-cd Project_18_Inventory_Management_CLI
+cd Project_19_Student_Database_CLI
 ```
 
 2. **Install dependencies**
@@ -50,7 +52,7 @@ export MONGO_URI="mongodb+srv://<username>:<password>@cluster0.xxxxx.mongodb.net
 4. **Run the program**
 
 ```bash
-python inventory_cli.py
+python student_cli.py
 ```
 
 ---
@@ -108,10 +110,10 @@ Are you sure you want to delete Riya S.? [y/n]: y
 
 ## 🧠 Key Learnings
 
-* How to build a **menu-driven CLI** for CRUD operations.
-* How to use **PyMongo** for database CRUD operations.
-* How to enhance CLI UX using **Rich library** (tables, panels, prompts).
-* How to handle user input safely and efficiently.
+* Building **menu-driven CLI applications**.
+* Performing **CRUD operations** with MongoDB via PyMongo.
+* Using **Rich library** for visually appealing CLI interfaces.
+* Handling user inputs safely and efficiently.
 
 ---
 
@@ -127,8 +129,8 @@ rich
 ## 🚀 Possible Improvements
 
 * Add **search functionality** by name or course.
-* Implement **inventory management** features (quantity, price, category).
+* Implement **login/authentication system** for admin access.
 * Add **export/import** options (CSV/Excel).
-* Integrate **login system** for user authentication.
+* Extend it into **Inventory or Employee Management System**.
 * Create a **GUI version** using Tkinter or Flask.
 
