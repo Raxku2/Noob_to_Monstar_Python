@@ -94,6 +94,7 @@ Projects are stored in separate folders.
 - [Chapter_30: FastAPI Basics (Routes, Path Params, Query Params)](./Chapter_30) 
 - [Chapter_31: CRUD with FastAPI & MongoDB](./Chapter_31) 
 - [Chapter_32: Authentication in FastAPI (with Password Hashing)](./Chapter_32) 
+- [Chapter_33: MongoDB + FastAPI Integration)](./Chapter_33) 
 
 <!-- Add more chapters here as you go -->
 
