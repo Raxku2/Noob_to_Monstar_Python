@@ -94,7 +94,8 @@ Projects are stored in separate folders.
 - [Chapter_30: FastAPI Basics (Routes, Path Params, Query Params)](./Chapter_30) 
 - [Chapter_31: CRUD with FastAPI & MongoDB](./Chapter_31) 
 - [Chapter_32: Authentication in FastAPI (with Password Hashing)](./Chapter_32) 
-- [Chapter_33: MongoDB + FastAPI Integration)](./Chapter_33) 
+- [Chapter_33: MongoDB + FastAPI Integration](./Chapter_33)  
+- [Chapter_34: Deploying FastAPI App (Vercel)](./Chapter_34) 
 
 <!-- Add more chapters here as you go -->
 
@@ -237,7 +238,7 @@ Some examples you'll build along the way:
 31. **Chapter\_31: CRUD with FastAPI**
 32. **Chapter\_32: Authentication in FastAPI (with Password Hashing)**
 33. **Chapter\_33: MongoDB + FastAPI Integration**
-34. **Chapter\_34: Deploying FastAPI App (Railway/Render/Heroku)**
+34. **Chapter\_34: Deploying FastAPI App (Vercel/Railway/Render/Heroku)**
 
 ### Projects
 
