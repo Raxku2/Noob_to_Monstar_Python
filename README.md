@@ -1,4 +1,7 @@
-# 🐍 Python Course: Noob 🤡 to Monster 👹 
+<!--# 🐍 Python Course: Noob 🤡 to Monster 👹--> 
+<!-- <h1><img src="https://www.emojiall.com/images/240/telegram/1f40d.gif" height="44px" alt="🐍"> Python Course: Noob <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f921/512.webp" height="38px"> to Monster <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" height="44px" style="mergin: -8px;"></h1> -->
+
+<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" height="44px" alt="🐍"> Python Course: Noob <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f921/512.webp" height="38px"> to Monster <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" height="44px" style="mergin: -8px;"></h1>
 
 Welcome to **Noob to Monster**, a complete **Python programming journey** from installing Python for the first time all the way to building **advanced CLI apps, web APIs, databases, and AI-powered tools**.  
 
