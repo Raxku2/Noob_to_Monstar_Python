@@ -136,6 +136,7 @@ Projects are stored in separate folders.
 - [Project_19: Student Database CLI (MongoDB + Rich)](./Project_19)
 - [Project_20: Notes App CLI (Python + MongoDB)](./Project_20)
 - [Project_22: Blog API with FastAPI & MongoDB](./Project_22)
+- [Project_23: User Authentication API (FastAPI + MongoDB + Frontend UI)](./Project_23)
 <!-- Add more projects here as you go -->
 
 ---
