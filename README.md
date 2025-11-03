@@ -74,8 +74,8 @@ ___
 
 Each **chapter** contains explanations, code examples, and a **practice set**.  
 Projects are stored in separate folders.  
-
-### 📝 Chapters# 📖 Python Learning Course – Index
+# 📖 Python Learning Course – Index
+### 📝 Chapters
 - [Chapter_01: Installing Python & Setting up IDE](./Chapter_01)  
 - [Chapter_02: Variables & Data Types](./Chapter_02)  
 - [Chapter_03: Input & Output in Python](./Chapter_03)  
