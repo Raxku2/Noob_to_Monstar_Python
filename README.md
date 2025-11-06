@@ -141,6 +141,7 @@ Projects are stored in separate folders.
 - [Project_23: User Authentication API (FastAPI + MongoDB + Frontend UI)](./Project_23)
 - [Project_24: Task Manager API](./Project_24)
 - [Project_25: URL Shortener API (FastAPI + MongoDB)](./Project_25)
+- [Project_26: Notes App API (FastAPI + MongoDB)](./Project_26)
 <!-- Add more projects here as you go -->
 
 ---
