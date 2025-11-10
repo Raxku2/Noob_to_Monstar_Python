@@ -36,7 +36,7 @@ Project_27_CLI_Chat_App/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cli-chat-app.git
+git clone https://github.com/Raxku2/Noob_to_Monstar_Python/edit/main/Project_27.git
 cd cli-chat-app
 ```
 
