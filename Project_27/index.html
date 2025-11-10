@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSocket Test</title>
+</head>
+<body>
+    <div id="status" style="padding: 10px; margin-bottom: 10px;"></div>
+    <div id="msgbox" style="overflow: scroll; width: 800px; height: 400px; border: solid 2px black;"></div>
+    <input type="text" id="msg" style="height: 30px; width: 700px;">
+    <button onclick="sendMessage()">Send Message</button>
+
+    <script>
+        const BASEAPI = "http://127.0.0.1:8000";
+        const messageBox = document.getElementById("msgbox");
+        const statusEl = document.getElementById("status");
+        let socket = null;
+
+        function connectWebSocket() {
+            socket = new WebSocket("ws://127.0.0.1:8000/msg");
+
+            socket.onopen = (e) => {
+                statusEl.textContent = "Connected to server";
+                statusEl.style.color = "green";
+                console.log('WebSocket connected successfully');
+            };
+
+            socket.onmessage = e => {
+                const messageEl = document.createElement('p');
+                messageEl.textContent = '> ' + e.data;
+                messageBox.appendChild(messageEl);
+                messageBox.scrollTop = messageBox.scrollHeight;
+            };
+
+            socket.onclose = (e) => {
+                statusEl.textContent = "Disconnected from server";
+                statusEl.style.color = "red";
+                console.log('WebSocket disconnected');
+                // Optional: Try to reconnect after 3 seconds
+                setTimeout(connectWebSocket, 3000);
+            };
+
+            socket.onerror = (e) => {
+                statusEl.textContent = "Connection error";
+                statusEl.style.color = "red";
+                console.error('WebSocket error:', e);
+            };
+        }
+
+        function sendMessage() {
+            const msgInp = document.getElementById('msg').value.trim();
+            
+            if (!msgInp) {
+                return;
+            }
+            
+            if (socket && socket.readyState === WebSocket.OPEN) {
+                fetch(`${BASEAPI}/send?msg=${encodeURIComponent(msgInp)}`)
+                    .then(response => response.json())
+                    .then(data => console.log('Message sent:', data))
+                    .catch(error => console.error('Error sending message:', error));
+                
+                document.getElementById('msg').value = '';
+            } else {
+                alert('Not connected to server');
+            }
+        }
+
+        // Allow sending message with Enter key
+        document.getElementById('msg').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+
+        // Initialize connection
+        connectWebSocket();
+    </script>
+</body>
+</html>
