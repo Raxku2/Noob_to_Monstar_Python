@@ -330,7 +330,7 @@ Some examples you'll build along the way:
 * Project\_53: Final Student-Defined Project (open challenge)
 
 ---
-
+<!--
 ## 🚀 How to Use This Repo
 1. Clone the repo:
    
@@ -354,6 +354,7 @@ Some examples you'll build along the way:
 4. Start with the **Chapter\_01** folder and move forward step by step.
 
 ---
+-->
 
 ## ✨ Why This Course?
 
