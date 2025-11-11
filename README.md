@@ -142,6 +142,7 @@ Projects are stored in separate folders.
 - [Project_24: Task Manager API](./Project_24)
 - [Project_25: URL Shortener API (FastAPI + MongoDB)](./Project_25)
 - [Project_26: Notes App API (FastAPI + MongoDB)](./Project_26)
+- [Project_27: CLI Chat App (Socket Programming)](./Project_27)
 <!-- Add more projects here as you go -->
 
 ---
