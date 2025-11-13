@@ -6,7 +6,7 @@
 Welcome to **Noob to Monster**, a complete **Python programming journey** from installing Python for the first time all the way to building **advanced CLI apps, web APIs, databases, and AI-powered tools**.  
 
 This repository contains **tutorials, practice sets, and 50+ projects** designed to take you from a beginner to a confident developer.
-contry
+
 ---
 ![Python](https://img.shields.io/badge/Python-3%2B-blue?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
