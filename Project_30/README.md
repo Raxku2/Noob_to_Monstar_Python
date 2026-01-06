@@ -168,7 +168,7 @@ Data is saved in a JSON file:
 
 ## 👨‍💻 Author
 
-**Rakesh**
+**Pinaka**
 📘 *Project from CodeShiksha – Python Mastery Course*
 🎯 Beginner-friendly real-world CLI application
 
