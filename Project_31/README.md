@@ -1,9 +1,3 @@
-Perfect 👍
-This is **Project_31 = Project_30 upgraded with MongoDB**, so the README should **clearly highlight the DB transition**, while keeping it beginner-friendly (no async, no advanced Python).
-
-Below is a **course-ready `README.md`** you can directly use in GitHub.
-
----
 
 # 💰 Project 31 – Expense Manager CLI (MongoDB Backend)
 
