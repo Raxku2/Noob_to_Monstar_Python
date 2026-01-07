@@ -5,7 +5,7 @@ from pymongo import MongoClient
 from dotenv import load_dotenv
 from bson.objectid import ObjectId
 load_dotenv()
-todoClient = MongoClient('mongodb+srv://admin:Passw0rd@cluster0.vnmslm1.mongodb.net/?appName=Cluster0')
+todoClient = MongoClient('')
 db = todoClient['todoDB']
 coll = db['jskdhaf']
 
