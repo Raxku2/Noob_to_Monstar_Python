@@ -143,6 +143,12 @@ Projects are stored in separate folders.
 - [Project_25: URL Shortener API (FastAPI + MongoDB)](./Project_25)
 - [Project_26: Notes App API (FastAPI + MongoDB)](./Project_26)
 - [Project_27: CLI Chat App (Socket Programming)](./Project_27)
+- [Project_28: File Sharing App (CLI)](./Project_28)
+- [Project_30: Budget Tracker CLI](./Project_30)
+- [Project_31: Expense Manager CLI (MongoDB Backend)](./Project_31)
+- [Project_32: Quiz App CLI (API Based)](./Project_32)
+- [Project_33: Music Player CLI](./Project_33)
+- [Project_34: News Aggregator CLI](./Project_34)
 <!-- Add more projects here as you go -->
 
 ---
