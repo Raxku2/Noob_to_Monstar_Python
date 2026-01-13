@@ -149,6 +149,7 @@ Projects are stored in separate folders.
 - [Project_32: Quiz App CLI (API Based)](./Project_32)
 - [Project_33: Music Player CLI](./Project_33)
 - [Project_34: News Aggregator CLI](./Project_34)
+- [Project_35: Portfolio Tracker CLI](./Project_35)
 <!-- Add more projects here as you go -->
 
 ---
