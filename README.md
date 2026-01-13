@@ -150,6 +150,7 @@ Projects are stored in separate folders.
 - [Project_33: Music Player CLI](./Project_33)
 - [Project_34: News Aggregator CLI](./Project_34)
 - [Project_35: Portfolio Tracker CLI](./Project_35)
+- [Project_36: PDF Merger CLI](./Project_36)
 <!-- Add more projects here as you go -->
 
 ---
