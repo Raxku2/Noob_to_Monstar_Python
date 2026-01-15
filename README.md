@@ -151,6 +151,9 @@ Projects are stored in separate folders.
 - [Project_34: News Aggregator CLI](./Project_34)
 - [Project_35: Portfolio Tracker CLI](./Project_35)
 - [Project_36: PDF Merger CLI](./Project_36)
+- [Project_37: Image Resizer CLI](./Project_37)
+- [Project_38: YouTube Downloader CLI](./Project_38)
+- [Project_39: Log Analyzer CLI](./Project_39)
 <!-- Add more projects here as you go -->
 
 ---
