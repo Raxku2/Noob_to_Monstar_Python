@@ -154,6 +154,7 @@ Projects are stored in separate folders.
 - [Project_37: Image Resizer CLI](./Project_37)
 - [Project_38: YouTube Downloader CLI](./Project_38)
 - [Project_39: Log Analyzer CLI](./Project_39)
+- [Project_41: CLI Email Sender](./Project_41)
 <!-- Add more projects here as you go -->
 
 ---
