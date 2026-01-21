@@ -110,7 +110,7 @@ Projects are stored in separate folders.
 - [Chapter_30: FastAPI Basics (Routes, Path Params, Query Params)](./Chapter_30) 
 - [Chapter_31: CRUD with FastAPI & MongoDB](./Chapter_31) 
 - [Chapter_32: Authentication in FastAPI (with Password Hashing)](./Chapter_32) 
-- [Chapter_33: MongoDB + FastAPI Integration](./Chapter_33)  
+- [Chapter_33: MongoDB + FastAPI Integration](./Chapter_33) 
 - [Chapter_34: Deploying FastAPI App (Vercel)](./Chapter_34) 
 
 <!-- Add more chapters here as you go -->
@@ -144,6 +144,7 @@ Projects are stored in separate folders.
 - [Project_26: Notes App API (FastAPI + MongoDB)](./Project_26)
 - [Project_27: CLI Chat App (Socket Programming)](./Project_27)
 - [Project_28: File Sharing App (CLI)](./Project_28)
+- [Project_29: Markdown Note-Taker](./Project_29)
 - [Project_30: Budget Tracker CLI](./Project_30)
 - [Project_31: Expense Manager CLI (MongoDB Backend)](./Project_31)
 - [Project_32: Quiz App CLI (API Based)](./Project_32)
