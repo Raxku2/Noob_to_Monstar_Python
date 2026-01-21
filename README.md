@@ -112,6 +112,7 @@ Projects are stored in separate folders.
 - [Chapter_32: Authentication in FastAPI (with Password Hashing)](./Chapter_32) 
 - [Chapter_33: MongoDB + FastAPI Integration](./Chapter_33) 
 - [Chapter_34: Deploying FastAPI App (Vercel)](./Chapter_34) 
+- [Chapter_37: Introduction to Vibe Coding (Thinking in Prompts)](./Chapter_37) 
 
 <!-- Add more chapters here as you go -->
 
