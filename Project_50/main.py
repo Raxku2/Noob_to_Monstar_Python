@@ -9,7 +9,7 @@ import os
 
 load_dotenv()
 
-client = MongoClient("mongodb+srv://subrata_db_user:DussAA1FX9INLpzl@cluster2.6yixlsi.mongodb.net/?appName=Cluster2")
+client = MongoClient("")
 db = client["todoDB"]
 collection = db["todos"]
 
