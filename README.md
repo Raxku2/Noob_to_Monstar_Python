@@ -159,6 +159,7 @@ Projects are stored in separate folders.
 - [Project_41: CLI Email Sender](./Project_41)
 - [Project_42: Pattern Printing Challenges](./Project_42)
 - [Project_43: String Manipulation Challenges](./Project_43)
+- [Project_44: Data Analysis Mini Tasks (CSV parsing, filtering)](./Project_44)
 <!-- Add more projects here as you go -->
 
 ---
