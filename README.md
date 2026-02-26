@@ -161,6 +161,7 @@ Projects are stored in separate folders.
 - [Project_43: String Manipulation Challenges](./Project_43)
 - [Project_44: Data Analysis Mini Tasks (CSV parsing, filtering)](./Project_44)
 - [Project_45: Build Your Own CLI Challenge](./Project_45)
+- [Project_47: E-commerce Inventory API (FastAPI + MongoDB)](./Project_47)
 - [Project_49: Blogging Platform (FastAPI + MongoDB + Deployment)](./Project_49)
 <!-- Add more projects here as you go -->
 
