@@ -113,6 +113,10 @@ Projects are stored in separate folders.
 - [Chapter_33: MongoDB + FastAPI Integration](./Chapter_33) 
 - [Chapter_34: Deploying FastAPI App (Vercel)](./Chapter_34) 
 - [Chapter_37: Introduction to Vibe Coding (Thinking in Prompts)](./Chapter_37) 
+- [Chapter_38: Breaking Problems into Steps](./Chapter_38) 
+- [Chapter_39: Writing Pseudocode & Translating to Python](./Chapter_39) 
+- [Chapter_40: Practicing Vibe Coding with Small Challenges](./Chapter_40) 
+- [Chapter_41: Full-Stack CLI + FastAPI Project](./Chapter_41) 
 
 <!-- Add more chapters here as you go -->
 
@@ -164,6 +168,8 @@ Projects are stored in separate folders.
 - [Project_46: Create a Problem-Solving Prompt Sheet](./Project_46)
 - [Project_47: E-commerce Inventory API (FastAPI + MongoDB)](./Project_47)
 - [Project_49: Blogging Platform (FastAPI + MongoDB + Deployment)](./Project_49)
+- [Project_50: Task & Notes Manager (CLI + DB + API)](./Project_50)
+- [Project_52: Finance Tracker App](./Project_52)
 <!-- Add more projects here as you go -->
 
 ---
