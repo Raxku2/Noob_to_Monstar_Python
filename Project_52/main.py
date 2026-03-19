@@ -314,39 +314,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-# from pymongo import MongoClient
-# from dotenv import load_dotenv
-# import os
-
-# print(">>> FILE STARTED <<<")
-
-# load_dotenv()
-
-# MONGO_URI = os.getenv("MONGO_URI")
-# DB_NAME = os.getenv("DB_NAME")
-
-# print("MONGO_URI:", "FOUND" if MONGO_URI else "NOT FOUND")
-# print("DB_NAME:", DB_NAME)
-
-# if not MONGO_URI:
-#     raise ValueError("❌ MONGO_URI missing in .env")
-
-# if not DB_NAME:
-#     raise ValueError("❌ DB_NAME missing in .env")
-
-# try:
-#     client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=5000)
-#     print(">>> MongoClient created <<<")
-
-#     client.admin.command("ping")
-#     print(">>> MongoDB CONNECTED SUCCESSFULLY <<<")
-
-#     db = client[DB_NAME]
-#     collection = db["transactions"]
-
-#     print(">>> Database & Collection READY <<<")
-
-# except Exception as e:
-#     print("❌ MongoDB connection failed")
-#     print(e)
