@@ -167,6 +167,7 @@ Projects are stored in separate folders.
 - [Project_45: Build Your Own CLI Challenge](./Project_45)
 - [Project_46: Create a Problem-Solving Prompt Sheet](./Project_46)
 - [Project_47: E-commerce Inventory API (FastAPI + MongoDB)](./Project_47)
+- [Project_48: CLI Chat App](./Project_48)
 - [Project_49: Blogging Platform (FastAPI + MongoDB + Deployment)](./Project_49)
 - [Project_50: Task & Notes Manager (CLI + DB + API)](./Project_50)
 - [Project_52: Finance Tracker App](./Project_52)
