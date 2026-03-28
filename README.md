@@ -170,6 +170,7 @@ Projects are stored in separate folders.
 - [Project_48: CLI Chat App](./Project_48)
 - [Project_49: Blogging Platform (FastAPI + MongoDB + Deployment)](./Project_49)
 - [Project_50: Task & Notes Manager (CLI + DB + API)](./Project_50)
+- [Project_51: Portfolio & Resume Manager API](./Project_51)
 - [Project_52: Finance Tracker App](./Project_52)
 <!-- Add more projects here as you go -->
 
